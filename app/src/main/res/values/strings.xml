@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lone Wolf</string>
+    <string name="sample_message">This is a sample message that will appear</string>
+</resources>
